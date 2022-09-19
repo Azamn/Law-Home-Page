@@ -15,7 +15,7 @@ In this project i have created a Street Style landing page. And i have learnt a 
 
 ### My Project is looking like :
 
-![Web Site Image](./screenshot/law-home-jpg)
+![Web Site Image](./screenshot/law-home-page.png)
 
 ## Time taken to finish this project
 
