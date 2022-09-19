@@ -4,7 +4,7 @@ I'm Azam Shaikh, a laravel backend Developer, and Passionate to become a Full St
 
 ## Project Name : **Law Home Page**
 
-In this project i have created a Street Style landing page. And i have learnt a lot of things of like how to use flex and how css makes life easier, and i have also learnt about positions like absolute and relative in this project.
+In this project i have created a Law Home Page. And i have learnt a lot of things of like how to use flex and how css makes life easier, and i have also learnt about positions like absolute and relative in this project.
 
 </br>
 
@@ -23,4 +23,4 @@ In this project i have created a Street Style landing page. And i have learnt a 
 
 ### You can Check it Live on Below Link :
 
-[Project Live Link](https://azam-street-style-landing-page.netlify.app/)
+[Project Live Link](https://azam-law-home-page.netlify.app/)
